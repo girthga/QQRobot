@@ -32,6 +32,8 @@ httpsReferer = 'https://d1.web2.qq.com/cfproxy.html?v=20151105001&callback=1'
 SmartQQUrl = 'https://ui.ptlogin2.qq.com/cgi-bin/login?daid=164&target=self&style=16&mibao_css=m_webqq&appid=501004106&enable_qlogin=0&no_verifyimg=1&s_url=http%3A%2F%2Fw.qq.com%2Fproxy.html&f_url=loginerroralert&strong_login=1&login_state=10&t=20131024001'
 VFWebQQ = ''
 AdminQQ = '0'
+APIkey:bad2889f911a453b93ef6bf9e7b3c937
+    tulingkey='图灵 API'
 MyUIN = ''
 tulingkey='#YOUR KEY HERE#'
 tmpUserName = ''
